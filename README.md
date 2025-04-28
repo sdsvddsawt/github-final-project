@@ -7,3 +7,5 @@ Input:<br><br>
 <br><br>
 Output
    - simple interest = p*t*r
+
+2022 XYZ, Inc.
